@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\REPASO_DEFENSA_121_23\REPASO_DEFENSA_121_23\obj\Debug\REPASO_DEFENSA_121_23.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\REPASO_DEFENSA_121_23\REPASO_DEFENSA_121_23\bin\Debug\REPASO_DEFENSA_121_23.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\REPASO_DEFENSA_121_23\REPASO_DEFENSA_121_23\bin\Debug\REPASO_DEFENSA_121_23.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\REPASO_DEFENSA_121_23\REPASO_DEFENSA_121_23\obj\Debug\REPASO_DEFENSA_121_23.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\REPASO_DEFENSA_121_23\REPASO_DEFENSA_121_23\obj\Debug\REPASO_DEFENSA_121_23.pdb
